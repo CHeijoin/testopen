@@ -1,7 +1,0 @@
-{
-    "class": "com.travelsky.sbeclient.ibeforagent.request.IntlShoppingRequest",
-    "requestXml": "<TSK_AirfareFlightShopRQ>\n\t\t<OTA_AirLowFareSearchRQ>\n\t\t\t<OriginDestinationInformation>\n\t\t\t\t<DepartureDate>\n\t\t\t\t\t<Date>2018-06-15</Date>\n\t\t\t\t\t<WindowBefore>2</WindowBefore>\n\t\t\t\t\t<WindowAfter>2</WindowAfter>\n\t\t\t\t</DepartureDate>\n\t\t\t\t<OriginLocationCode>PEK</OriginLocationCode>\n\t\t\t\t<DestinationLocationCode>HKG</DestinationLocationCode>\n\t\t\t</OriginDestinationInformation>\n\t\t\t<TravelPreferences />\n\t\t\t<TravelerInfoSummary>\n\t\t\t\t<AirTravelerAvail>\n\t\t\t\t\t<PassengerTypeQuantity>\n\t\t\t\t\t\t<Code>ADT</Code>\n\t\t\t\t\t\t<Quantity>1</Quantity>\n\t\t\t\t\t</PassengerTypeQuantity>\n\t\t\t\t</AirTravelerAvail>\n\t\t\t</TravelerInfoSummary>\n\t\t</OTA_AirLowFareSearchRQ>\n\t\t<AdditionalShopRQData>\n\t\t\t<IncludeFlightAvailability>true</IncludeFlightAvailability>\n\t\t\t<FsOrCs>CS</FsOrCs>\n\t\t</AdditionalShopRQData>\n</TSK_AirfareFlightShopRQ>",
-    "serviceName": "SBE_IFA_INTL_SHOPPING",
-    "timestamp": "2017-09-14 10:18:37",
-    "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}

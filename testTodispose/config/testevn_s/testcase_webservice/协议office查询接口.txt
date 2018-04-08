@@ -1,9 +1,0 @@
-{
-   "ibeFlag": "true",
-   "officeNo": null,
-   "protocolOfficeNos": "CAN910",
-   "serviceName": "SBE_PROTOCOL_QUERY",
-   "supplierName": "",
-   "timestamp": "2018-03-01 11:38:05",
-   "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}

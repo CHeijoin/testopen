@@ -1,9 +1,0 @@
-{
-   "authOffice": "CAN910",
-   "authPnr": "KD5R2K",
-   "ibeFlag": "true",
-   "officeNo": null,
-   "serviceName": "SBE_AUTH_PNR",
-   "timestamp": "2018-03-05 15:39:37",
-   "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}

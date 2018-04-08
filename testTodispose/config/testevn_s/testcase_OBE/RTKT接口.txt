@@ -1,7 +1,0 @@
-{
-    "officeNo": "CAN826",
-    "ticketNo": "126-5321336362",
-    "serviceName": "SBE_RTKT",
-    "timestamp": "2017-04-13 16:17:16",
-    "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}

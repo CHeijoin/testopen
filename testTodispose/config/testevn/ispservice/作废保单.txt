@@ -1,9 +1,0 @@
-{
-	"class": "com.travelsky.sbeclient.ispservice.request.SBECancelRequest",
-	"dealNo": "CANXYD199999999aa",
-	"encryption": null,
-	"policyNo": "160421200010091",
-	"serviceName": "ISP_CANCEL_POLICY",
-	"timestamp": "2018-03-16 10:11:06",
-	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}

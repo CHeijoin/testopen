@@ -1,9 +1,0 @@
-{
-    "class": "com.travelsky.sbeclient.ispservice.request.SBEGetPolicyRequest",
-    "dealNo": "",
-    "policyNo": "2079146042011013303",
-    "serviceName": "ISP_QUERY_POLICY",
-    "timestamp": "2017-06-07 16:34:56",
-    "token": "${…Í«Î¡Ó≈∆#Response#$.token}",
-    "tradeNo": ""
-}

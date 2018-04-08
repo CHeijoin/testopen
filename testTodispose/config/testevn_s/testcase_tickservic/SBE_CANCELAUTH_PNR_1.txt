@@ -1,9 +1,0 @@
-{
-   "cancelAuthOffice": "CAN910",
-   "ibeFlag": "true",
-   "officeNo": null,
-   "pnrNo": "KD5R2K",
-   "serviceName": "SBE_CANCELAUTH_PNR",
-   "timestamp": "2018-03-05 15:43:11",
-   "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
-}
