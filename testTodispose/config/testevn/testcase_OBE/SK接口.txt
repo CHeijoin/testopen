@@ -1,0 +1,15 @@
+{
+	"airline": "CA",
+	"class": "com.travelsky.sbeclient.obe.request.SKRequest",
+	"date": "01JUL18",
+	"direct": null,
+	"dst": "PEK",
+	"encryption": null,
+	"ibeFlag": "false",
+	"noStop": null,
+	"officeNo": "BJS187",
+	"org": "CAN",
+	"serviceName": "SBE_OBE_SK",
+	"timestamp": "2018-03-15 11:35:18",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

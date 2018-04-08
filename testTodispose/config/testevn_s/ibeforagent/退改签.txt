@@ -1,0 +1,11 @@
+{
+	"account": null,
+	"class": "com.travelsky.sbeclient.ibeforagent.request.AirFareRulesRequest",
+	"office": null,
+	"passWord": null,
+	"requestXml": "<Request>\n        <SITA_AirfareRulesRQ Version=\"1.000\">\n            <ota:OTA_AirRulesRQ xmlns:ota=\"http://www.opentravel.org/OTA/2003/05\" EchoToken=\"TravelSky_IBE_LINE\" Target=\"Test\">\n <ota:POS>\n                    <!--AirportCode填写与shopping请求一致-->\n                    <ota:Source AirportCode=\"CAN\" />\n\n                </ota:POS>\n                <ota:RuleReqInfo>\n                    <!-- DepartureDate填写方法：从shopping结果中的PriceAvailabilityBinds节点找到第1个价格对应的AvailJourneyBinding中的av编号0119，然后从编号为0119的AV信息中找到DepartureDateTime,注意Rule请求的DepartureDateTime的格式-->\n                    <ota:DepartureDate>2018-06-15T11:55:00</ota:DepartureDate>\n                    <!-- FareReference填写方法：从shopping结果中第一条价格对应的规则信息中获取FareReferce-->\n                    <ota:FareReference>L1TAN</ota:FareReference>\n                    <ota:RuleInfo />\n                    <!-- FilingAirline填写方法：从shopping结果中第一条价格对应的规则信息中获取FilingAirline-->\n                    <ota:FilingAirline Code=\"LO\" />\n                    <!-- DepartureAirport 填写方法：从shopping结果中第一条价格对应的规则信息中获取DepartureAirport -->\n                    <ota:DepartureAirport LocationCode=\"PEK\" CodeContext=\"IATA\" />\n                    <!-- ArrivalAirport 填写方法：从shopping结果中第一条价格对应的规则信息中获取ArrivalAirport -->\n                    <ota:ArrivalAirport LocationCode=\"FRA\" CodeContext=\"IATA\" />\n                </ota:RuleReqInfo>\n            </ota:OTA_AirRulesRQ>\n            <AdditionalRulesRQData>\n                <References>\n                    <!-- Ref1和Ref2的填写方法：将shopping结果中第一条价格对应的规则信息中的Ref1和Ref2复制过来即可  -->\n                   <Ref1>GEPY01(USER(CAN,'1E',&lt;&gt;,Y,DEPT(&lt;&gt;,&lt;&gt;),&lt;&gt;,&lt;&gt;,&lt;&gt;),PF2(Y,[(AGENCY(CAN830),IATANUM('08330744'),N)],[],[],[],N,&lt;&gt;),&lt;&gt;)</Ref1>\n         <Ref2>004V101EHNADTN0010000400ATP59</Ref2>\n                </References>\n            </AdditionalRulesRQData>\n            <TSK_Extensions>\n                <ResultType>1</ResultType>\n            </TSK_Extensions>\n        </SITA_AirfareRulesRQ>\n    </Request>",
+	"serviceName": "SBE_IFA_AIRFARERULES",
+	"timestamp": "2018-03-28 16:31:35",
+	"token": "${申请令牌#Response#$.token}",
+	"url": null
+}

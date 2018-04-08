@@ -1,0 +1,10 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.DETRPubRequest",
+	"ibeFlag": "true",
+	"officeNo": null,
+	"serviceName": "SBE_DETR_JZ",
+	"setBy": false,
+	"timestamp": "2018-03-05 11:07:07",
+	"tn": "7842338040137",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

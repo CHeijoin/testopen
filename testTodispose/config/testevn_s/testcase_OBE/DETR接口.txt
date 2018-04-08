@@ -1,0 +1,23 @@
+{
+	"airline": null,
+	"arrCity": null,
+	"cabin": null,
+	"certCode": "",
+	"certNo": "",
+	"class": "com.travelsky.sbeclient.obe.request.DETRRequest",
+	"depCity": null,
+	"deptime": null,
+	"etArea": "A",
+	"flightNo": null,
+	"ibeFlag": null,
+	"isOnlyOpen": "false",
+	"name": null,
+	"officeNo": "can108",
+	"operateFlag": "TKNO",
+	"option": null,
+	"pnrNo": "",
+	"serviceName": "SBE_DETR",
+	"timestamp": "2018-03-29 15:53:33",
+	"tn": "784-5385527771",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

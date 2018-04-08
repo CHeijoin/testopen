@@ -1,0 +1,13 @@
+{
+	"airline": "",
+	"class": "com.travelsky.sbeclient.obe.request.TSLQueryRequest",
+	"ibeFlag": null,
+	"num": "1",
+	"officeNo": "CAN826",
+	"serviceName": "SBE_TSL_QUERY",
+	"siCode": "",
+	"ticketNumber": "",
+	"timestamp": "2018-03-29 16:02:33",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}",
+	"type": "0"
+}

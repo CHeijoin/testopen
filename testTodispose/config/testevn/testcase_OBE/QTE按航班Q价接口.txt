@@ -1,0 +1,30 @@
+{
+	"actionCode": "NN",
+	"airCode": "CA",
+	"airSegs": [{
+		"arrival": "PEK",
+		"arrivalTime": "",
+		"cabin": "Y",
+		"class": "com.travelsky.sbeclient.obe.request.AirSegInfo",
+		"departure": "CAN",
+		"departureDate": "2018-05-16",
+		"departureTime": "",
+		"flightNo": "CA1330"
+	}],
+	"bigCustomerCode": "",
+	"class": "com.travelsky.sbeclient.obe.request.SearchQPriceRequest",
+	"currency": "CNY",
+	"encryption": null,
+	"fareType": "",
+	"ibeFlag": "false",
+	"index": "ALL",
+	"lowestonly": "false",
+	"needEtermStr": "false",
+	"number": "1",
+	"officeNo": "CAN131",
+	"passengerAge": "",
+	"passengerType": "",
+	"serviceName": "SBE_QPRICE",
+	"timestamp": "2018-03-15 14:35:14",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

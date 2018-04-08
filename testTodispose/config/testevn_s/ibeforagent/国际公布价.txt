@@ -1,0 +1,8 @@
+{
+	"class": "com.travelsky.sbeclient.ibeforagent.request.IntlFareDisplayRequest",
+	"encryption": null,
+	"requestXml": "<Request> \n  <SITA_AirfareFareDisplayRQ> \n    <OTA_AirFareDisplayRQ> \n      <OriginDestinationInformation> \n        <DepartureDateTime departureDateTime=\"2015-11-14\"/>  \n        <OriginLocation LocationCode=\"CAN\"/>  \n        <DestinationLocation LocationCode=\"HKG\"/> \n      </OriginDestinationInformation>  \n      <TravelPreferences> \n        <VendorPref Code=\"CZ\" CodeContext=\"IATA\"/>  \n        <FareApplicationTypePref FareApplicationType=\"Return\"/> \n      </TravelPreferences>  \n      <TravelerInfoSummary> \n        <PassengerTypeQuantity Code=\"ADT\" Quantity=\"1\"/> \n      </TravelerInfoSummary> \n    </OTA_AirFareDisplayRQ>  \n    <AdditionalFareDisplayRQData PricingSource=\"Both\"/> \n  </SITA_AirfareFareDisplayRQ> \n</Request>",
+	"serviceName": "SBE_IFA_INTL_FAREDISPLAY",
+	"timestamp": "2018-03-22 09:31:35",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

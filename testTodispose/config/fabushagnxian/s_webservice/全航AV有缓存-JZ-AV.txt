@@ -1,0 +1,16 @@
+{
+	"airline": "ALL",
+	"class": "com.travelsky.sbeclient.obe.request.AVAllRequest",
+	"direct": true,
+	"dstCity": "CAN",
+	"eticket": true,
+	"flightDate": "2018-05-25",
+	"ibeFlag": "true",
+	"officeNo": null,
+	"orgCity": "PEK",
+	"outStyle": "0",
+	"serviceName": "SBE_AV_ALL",
+	"timestamp": "2018-03-20 14:09:16",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}",
+	"useCacheMode": 1
+}

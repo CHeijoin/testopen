@@ -1,0 +1,20 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.AVDiscreteTripRequest",
+	"encryption": null,
+	"firstAirline": "",
+	"firstDepartDate": "2018-05-18",
+	"firstDst": "PEK",
+	"firstOrg": "CAN",
+	"firstStopCity": "",
+	"ibeFlag": null,
+	"officeNo": "CAN996",
+	"page": 0,
+	"secondAirline": "",
+	"secondDepartDate": "2018-05-20",
+	"secondDst": "CKG",
+	"secondOrg": "SHA",
+	"secondStopCity": "",
+	"serviceName": "SBE_AV_DISCRETE_TRIP",
+	"timestamp": "2018-03-15 11:32:21",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

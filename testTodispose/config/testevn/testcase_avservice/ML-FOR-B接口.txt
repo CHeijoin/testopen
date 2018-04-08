@@ -1,0 +1,13 @@
+{
+	"cabin": "",
+	"class": "com.travelsky.sbeclient.obe.request.MLForBRequest",
+	"flightDate": "2018-05-27",
+	"flightNo": "CA1866",
+	"ibeFlag": null,
+	"officeNo": "CAN131",
+	"option1": "C",
+	"option2": "",
+	"serviceName": "SBE_ML_FOR_B",
+	"timestamp": "2018-03-07 14:20:47",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

@@ -1,0 +1,20 @@
+{
+	"aid": "10",
+	"class": "com.travelsky.sbeclient.obe.request.ApaRequest",
+	"ibeFlag": null,
+	"officeNo": "CAN996",
+	"paramFlightList": [{
+		"adType": 1,
+		"cabin": "Y",
+		"class": "com.travelsky.sbeclient.obe.request.ApaRequest$ParamFlight",
+		"desCity": "PEK",
+		"flightDate": "2018-05-11",
+		"flightNo": "CA1310",
+		"orgCity": "CAN",
+		"seatNum": "1"
+	}],
+	"pnrNo": "JMXJS5",
+	"serviceName": "SBE_APA",
+	"timestamp": "2018-03-20 16:20:34",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

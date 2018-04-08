@@ -1,0 +1,10 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.TKTCheckRequest",
+	"companyName": "广州中航信",
+	"encryption": null,
+	"officeNo": "CAN911",
+	"serviceName": "SBE_TKTCHECK",
+	"ticketNo": "784-5811300603",
+	"timestamp": "2018-03-15 09:51:17",
+	"token": "${申请令牌#Response#$.token}"
+}

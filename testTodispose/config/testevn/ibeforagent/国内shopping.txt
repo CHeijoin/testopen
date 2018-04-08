@@ -1,0 +1,7 @@
+{
+	"class": "com.travelsky.sbeclient.ibeforagent.request.DomesticShoppingRequest",
+	"requestXml": "<FareInterface>\n\t<Input>\n\t\t<HeaderIn>\n\t\t\t<sysCode>CRS</sysCode>\n\t\t\t<channelID>1E</channelID>\n\t\t\t<channelType>COMMON</channelType>\n\t\t\t<language>CN</language>\n\t\t\t<commandType>FLS</commandType>\n\t\t</HeaderIn>\n\t\t<Request>\n\t\t\t<FlightShopRequest>\n\t\t\t\t<OriginDestinationInfo>\n\t\t\t\t\t<ori>CAN</ori>\n\t\t\t\t\t<des>WUH</des>\n\t\t\t\t\t<DepartureDate>29MAY18</DepartureDate>\n\t\t\t\t</OriginDestinationInfo>\n\t\t\t\t<TravelPreferences>\n\t\t\t\t\t<cabinClass/>\n\t\t\t\t\t<displayCurrCode>CNY</displayCurrCode>\n\t\t\t\t\t<currCode>CNY</currCode>\n\t\t\t\t\t<isDirectFlightOnly>true</isDirectFlightOnly>\n\t\t\t\t\t<journeyType>OW</journeyType>\n\t\t\t\t\t<isDealModel>false</isDealModel>\n\t\t\t\t\t<passenger>\n\t\t\t\t\t\t<number>1</number>\n\t\t\t\t\t\t<type>AD</type>\n\t\t\t\t\t</passenger>\n\t\t\t\t</TravelPreferences>\n\t\t\t\t<Option>\n\t\t\t\t\t<fcFeature>0</fcFeature>\n\t\t\t\t\t<isAvNeeded>Y</isAvNeeded>\n\t\t\t\t\t<isPSnNeeded>Y</isPSnNeeded>\n\t\t\t\t\t<isPsAvBindsNeeded>Y</isPsAvBindsNeeded>\n\t\t\t\t\t<isFaresNeeded>Y</isFaresNeeded>\n\t\t\t\t\t<ruleTypeNeeded>Y</ruleTypeNeeded>\n\t\t\t\t\t<format>NOR</format>\n\t\t\t\t\t<lowestOrAll>A</lowestOrAll>\n\t\t\t\t\t<fareSource>ALL</fareSource>\n\t\t\t\t</Option>\n\t\t\t</FlightShopRequest>\n\t\t</Request>\n\t</Input>\n</FareInterface>",
+	"serviceName": "SBE_IFA_D_SHOPPING",
+	"timestamp": "2018-03-28 17:00:36",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

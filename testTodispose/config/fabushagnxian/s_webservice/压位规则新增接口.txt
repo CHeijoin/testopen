@@ -1,0 +1,20 @@
+{
+   "account": "dataservice01",
+   "agentNo": "",
+   "endDate": "2019-01-01",
+   "ibeFlag": "true",
+   "officeNo": null,
+   "pid": "",
+   "pressNumber": 3,
+   "pressOfficeNo": "CAN996",
+   "pressRange": "ALL",
+   "pressType": "3",
+   "ruleId": "308711",
+   "ruleName": "werwe23",
+   "serviceName": "SBE_PRESS_RULE_ADD",
+   "shareNo": "dafsdfsd",
+   "startDate": "2016-01-01",
+   "status": null,
+   "timestamp": "2018-03-20 14:01:19",
+   "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

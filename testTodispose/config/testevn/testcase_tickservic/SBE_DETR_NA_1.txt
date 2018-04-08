@@ -1,0 +1,10 @@
+{
+	"certNo": "350181197505216508",
+	"class": "com.travelsky.sbeclient.obe.request.DetrNaRequest",
+	"ibeFlag": "true",
+	"officeNo": null,
+	"returnAll": false,
+	"serviceName": "SBE_DETR_NA",
+	"timestamp": "2018-03-01 15:28:30",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

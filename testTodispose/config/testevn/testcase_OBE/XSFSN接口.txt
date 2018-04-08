@@ -1,0 +1,12 @@
+{
+	"categoryIds": ["01", "02", "03"],
+	"class": "com.travelsky.sbeclient.obe.request.XSFSNRequest",
+	"encryption": null,
+	"fsdCmdStr": "XS FSD BJSSIN/01MAY/*Y<CH/SQ/NEGO",
+	"ibeFlag": null,
+	"officeNo": "CAN131",
+	"queryIndex": "1",
+	"serviceName": "SBE_XSFSN",
+	"timestamp": "2018-03-15 14:49:39",
+	"token": "${ÉêÇëÁîÅÆ#Response#$.token}"
+}

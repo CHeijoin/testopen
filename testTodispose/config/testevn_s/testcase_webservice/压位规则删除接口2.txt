@@ -1,0 +1,13 @@
+{
+   "account": "chenjie1",
+   "ruleId": "30301",
+   "ruleName": "oii0oiiu93",
+   "pressOfficeNo": "",
+   "agentNo": "",
+   "shareNo": "",
+   "pid": "",
+   "officeNo": "UFO099",
+   "serviceName": "SBE_PRESS_RULE_DEL",
+   "timestamp": "2018-03-06 11:30:13",
+   "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

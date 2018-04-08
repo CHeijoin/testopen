@@ -1,0 +1,11 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.PnrCancelCheckRequest",
+	"ibeFlag": "true",
+	"isDetr": null,
+	"officeNo": "CAN911",
+	"orderId": "232",
+	"pnrNo": "HP1H13",
+	"serviceName": "SBE_PNR_CANCEL_CHECK",
+	"timestamp": "2018-03-05 15:34:47",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}
