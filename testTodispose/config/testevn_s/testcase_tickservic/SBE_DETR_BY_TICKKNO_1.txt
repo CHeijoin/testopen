@@ -1,0 +1,11 @@
+{
+	"airline": "CZ",
+	"class": "com.travelsky.sbeclient.obe.request.DetrByTicketNoRequest",
+	"flag": "true",
+	"ibeFlag": "true",
+	"officeNo": null,
+	"serviceName": "SBE_DETR_BY_TICKKNO",
+	"ticketNo": "784-2071223045",
+	"timestamp": "2018-03-06 09:46:48",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

@@ -1,0 +1,10 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.RtPubSpRequest",
+	"ibeFlag": "true",
+	"officeNo": null,
+	"pnrNo": "HT8R2F",
+	"serviceName": "SBE_RT_PUBLIC_SP",
+	"timestamp": "2016-12-15 12:49:44",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+
+}

@@ -1,0 +1,16 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.PatRequest",
+	"ibeFlag": null,
+	"ifinput": false,
+	"index": 0,
+	"license": "",
+	"officeNo": "BJS187",
+	"option": "A",
+	"payment": "",
+	"pnrNo": "JSHR13",
+	"priceIndex": 0,
+	"serviceName": "SBE_PAT",
+	"timestamp": "2018-03-29 14:21:24",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}",
+	"type": ""
+}

@@ -1,0 +1,14 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.PATMoreTypeRequest",
+	"ibeFlag": null,
+	"ifinput": false,
+	"license": null,
+	"officeNo": "BJS187",
+	"option": "A",
+	"payment": null,
+	"pnrNo": "jvwm5d",
+	"psgTypeInfos": null,
+	"serviceName": "SBE_PAT_MORE_PSGTYPE",
+	"timestamp": "2016-12-14 17:24:11",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

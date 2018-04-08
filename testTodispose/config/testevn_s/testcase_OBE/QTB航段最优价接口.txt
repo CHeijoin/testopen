@@ -1,0 +1,21 @@
+{
+	"actionCode": "NN",
+	"cabinClass": "FRST",
+	"carrier": "CA",
+	"class": "com.travelsky.sbeclient.obe.request.QTBQueryRequest",
+	"encryption": null,
+	"ibeFlag": "false",
+	"number": "1",
+	"officeNo": "CAN996",
+	"segmentInfo": [{
+		"cabin": "Y",
+		"class": "com.travelsky.sbeclient.obe.request.QTBQueryRequest$QTBSegmentInfo",
+		"dep": "PEK",
+		"flightDate": "2018-05-16",
+		"flightNo": "CA1322",
+		"org": "CAN"
+	}],
+	"serviceName": "SBE_QTB_QUERY",
+	"timestamp": "2018-03-29 14:43:30",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

@@ -1,0 +1,10 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.DetrByTRequest",
+	"encryption": null,
+	"ibeFlag": null,
+	"officeNo": "CAN826",
+	"serviceName": "SBE_DETR_BY_T",
+	"ticketNo": "126-5321336362",
+	"timestamp": "2018-03-20 23:36:24",
+	"token": "Y2hlbmppZTEjMjAxOC0wMy0yMCAyMzozNDo1OA=="
+}

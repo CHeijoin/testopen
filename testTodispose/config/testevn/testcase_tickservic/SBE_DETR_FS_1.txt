@@ -1,0 +1,11 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.DETRFsRequest",
+	"hashCode": null,
+	"ibeFlag": "true",
+	"officeNo": null,
+	"outStyle": 0,
+	"serviceName": "SBE_DETR_FS",
+	"ticketNo": "999-2071223094",
+	"timestamp": "2018-03-05 10:49:21",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

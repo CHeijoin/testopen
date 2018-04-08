@@ -1,0 +1,15 @@
+{
+	"cabin": "Y",
+	"class": "com.travelsky.sbeclient.obe.request.DsgRequest",
+	"encryption": null,
+	"flightDate": "2018-06-01",
+	"flightNo": "CA1310",
+	"ibeFlag": null,
+	"officeNo": "CAN996",
+	"pnrNo": "",
+	"segIdxInPnr": null,
+	"segment": "",
+	"serviceName": "SBE_DSG",
+	"timestamp": "2018-03-15 13:33:47",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

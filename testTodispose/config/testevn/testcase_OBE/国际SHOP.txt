@@ -1,0 +1,43 @@
+{
+    "accountCode": "",
+    "accountCodeFlag": "",
+    "airline": [
+        "PR"
+    ],
+    "cabin": "",
+    "class": "com.travelsky.sbeclient.obe.request.InternationalShopRequest",
+    "currency": "",
+    "flightShopNums": "",
+    "flightShopType": "",
+    "groupDetailFlag": "",
+    "ibeFlag": null,
+    "isDirect": "",
+    "maxConnectingTimes": "",
+    "officeNo": "CAN131",
+    "orderingRule": "",
+    "orginDestinationInformations": [
+        {
+            "class": "com.travelsky.sbeclient.obe.shop.international.OrginDestinationInformation",
+            "connectionLocations": [
+                ""
+            ],
+            "departDate": "21Jul",
+            "departTime": "",
+            "dst": "YYZ",
+            "org": "can",
+            "returnDate": "",
+            "returnTime": ""
+        }
+    ],
+    "passengers": [
+        {
+            "class": "com.travelsky.sbeclient.obe.shop.Passenger",
+            "psgNums": "",
+            "psgType": "ADT"
+        }
+    ],
+    "segmentType": "0",
+    "serviceName": "SBE_INTERNATIONAL_SHOP",
+    "timestamp": "2017-05-05 09:39:55",
+    "token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

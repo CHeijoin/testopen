@@ -1,0 +1,12 @@
+{
+	"airline": "ca",
+	"class": "com.travelsky.sbeclient.obe.blackList.BlackListRequest",
+	"companyName": "代理人公司",
+	"ibeFlag": "true",
+	"name": "张三",
+	"officeNo": null,
+	"serviceName": "SBE_BLACKLIST_QUERY",
+	"status": null,
+	"timestamp": "2018-03-20 14:08:20",
+	"token": "${申请令牌#Response#$.token}"
+}

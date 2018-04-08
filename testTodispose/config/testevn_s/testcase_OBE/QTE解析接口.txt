@@ -1,0 +1,10 @@
+{
+	"QTEContent": "FSI/CX                                                                          \nS CX  5905Y18MAY PEK0800 1140HKG0S    333  #OKA                                 \n01 YOW2                 3937 CNY                    INCL TAX                    \n*ATTN PRICED ON 15MAR18*1506                                                    \n BJS                                                                            \n HKG YOW2                              NVB        NVA18MAY19 30K                \nFARE  CNY    3790                                                               \nTAX   CNY     90CN CNY     57YR                                                 \nTOTAL CNY    3937                                                               \n18MAY18BJS CX HKG572.65NUC572.65END ROE6.618275                                 \n*AUTO BAGGAGE INFORMATION AVAILABLE - SEE FSB                                   \n*COMMISSION VALIDATED - DATA SOURCE TRAVELSKY                                   \nCOMMISSION  3.00 PERCENT OF GROSS                                               \nQA4/1E /EFEP_QA4/FCC=T/  ",
+	"class": "com.travelsky.sbeclient.obe.request.QTEParseRequest",
+	"encryption": null,
+	"ibeFlag": "true",
+	"officeNo": "CAN888",
+	"serviceName": "SBE_QTE_PARSE",
+	"timestamp": "2018-03-15 15:07:12",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

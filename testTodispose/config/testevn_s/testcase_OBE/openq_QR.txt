@@ -1,0 +1,12 @@
+{
+	"agent": "99013",
+	"class": "com.travelsky.sbeclient.obe.request.QRSNRequest",
+	"encryption": null,
+	"ibeFlag": null,
+	"needPnrInfo": "false",
+	"officeNo": "BJS191",
+	"rsn": "tl",
+	"serviceName": "SBE_QR",
+	"timestamp": "2018-03-20 16:38:30",
+	"token": "Y2hlbmppZTEjMjAxOC0wMy0yMCAxNTo1Njo1Ng=="
+}

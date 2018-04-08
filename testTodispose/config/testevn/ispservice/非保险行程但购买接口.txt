@@ -1,0 +1,62 @@
+{
+    "class": "com.travelsky.sbeclient.ispservice.request.SBEInsureRequest",
+    "policy": {
+        "arrivalDate": "2013-01-13 20:00:00",
+        "benefiters": [
+            {
+                "birthday": null,
+                "cardNo": "22",
+                "cardType": 1,
+                "class": "com.travelsky.sbeclient.ispservice.request.Benefiter",
+                "name": "法定",
+                "relation": 1
+            }
+        ],
+        "checkInDate": "",
+        "checkOutDate": "",
+        "class": "com.travelsky.sbeclient.ispservice.request.PolicyBean",
+        "dealNo": "HXGDS11aaaaa6666",
+        "flightDate": "2013-01-14 20:00:00",
+        "flightNo": "CZ1301",
+        "insEndDate": "2013-01-15 20:00:00",
+        "insStartDate": "2013-01-13 20:00:00",
+        "insurer": {
+            "address": "广州天河",
+            "birthday": "1973-12-18 00:00:00",
+            "cardNo": "440722197312180013",
+            "cardType": 1,
+            "class": "com.travelsky.sbeclient.ispservice.request.Insurancer",
+            "email": "email@qq.com",
+            "genderType": 1,
+            "name": "余炽华",
+            "phone": "13213695091",
+            "zip": "888888"
+        },
+        "needReceipt": false,
+        "paperCount": 1,
+        "patternType": "A",
+        "price": 20,
+        "prnNo": "HSYW0M",
+        "productName": null,
+        "productUnicode": 1102,
+        "protecters": [
+            {
+                "birthday": "1986-04-16 12:00:00",
+                "cardNo": "1112222111",
+                "cardType": 1,
+                "class": "com.travelsky.sbeclient.ispservice.request.Protecter",
+                "genderType": 1,
+                "name": "小牛",
+                "relation": 1
+            }
+        ],
+        "reservationDate": "",
+        "ticketNo": "9993567912534",
+        "ticketPublishDate": "",
+        "travStartDate": "",
+        "travelDestination": ""
+    },
+    "serviceName": "ISP_BOOK_POLICY",
+    "timestamp": "2017-06-01 17:11:11",
+    "token": "${申请令牌#Response#$.token}"
+}

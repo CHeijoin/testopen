@@ -1,0 +1,13 @@
+{
+	"airCode": "CA",
+	"cabinType": "FRST",
+	"class": "com.travelsky.sbeclient.obe.request.QTBInputRequest",
+	"encryption": null,
+	"ibeFlag": "false",
+	"officeNo": "CAN131",
+	"pnrNo": "JZB41B",
+	"replaceCabin": true,
+	"serviceName": "SBE_QTB_INPUT",
+	"timestamp": "2018-03-15 14:40:49",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

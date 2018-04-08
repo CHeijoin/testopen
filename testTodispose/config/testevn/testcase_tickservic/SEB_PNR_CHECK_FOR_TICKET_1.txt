@@ -1,0 +1,12 @@
+{
+	"class": "com.travelsky.sbeclient.obe.request.PnrCheckForTicketRequest",
+	"ibeFlag": "true",
+	"isDetr": "false",
+	"officeNo": "CAN911",
+	"orderId": "232",
+	"pnrNo": "KGZM76",
+	"serviceName": "SEB_PNR_CHECK_FOR_TICKET",
+	"setBy": false,
+	"timestamp": "2018-03-05 15:18:00",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

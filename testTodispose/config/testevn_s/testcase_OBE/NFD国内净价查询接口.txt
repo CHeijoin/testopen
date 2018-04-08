@@ -1,0 +1,21 @@
+{
+	"airline": "CA",
+	"cabin": "",
+	"class": "com.travelsky.sbeclient.obe.request.NFDRequest",
+	"date": "23MAY18",
+	"direction": "",
+	"discountCode": "",
+	"dst": "PEK",
+	"encryption": null,
+	"fareBasis": "",
+	"ibeFlag": null,
+	"officeNo": "CAN996",
+	"org": "SHA",
+	"passType": "",
+	"roundType": "",
+	"serviceName": "SBE_NFD",
+	"serviceType": "",
+	"showType": "",
+	"timestamp": "2018-03-15 13:49:57",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}

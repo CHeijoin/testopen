@@ -1,0 +1,15 @@
+{
+   "account": "",
+   "authorization": "-1",
+   "configInfoOffice": "CAN910",
+   "ibeFlag": "true",
+   "officeNo": null,
+   "pid": "",
+   "serviceName": "SBE_CONFIGINFO",
+   "shared": "-1",
+   "status": "-1",
+   "system": "C",
+   "timestamp": "2018-02-28 17:19:17",
+   "token": "${…Í«Î¡Ó≈∆#Response#$.token}",
+   "type": "-1"
+}

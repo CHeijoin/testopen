@@ -1,0 +1,15 @@
+{
+	"airline": "CA",
+	"class": "com.travelsky.sbeclient.obe.request.FYRequest",
+	"departDate": "",
+	"dst": "NRT",
+	"encryption": null,
+	"ibeFlag": null,
+	"language": "",
+	"officeNo": "CAN131",
+	"org": "PEK",
+	"serviceName": "SBE_FY",
+	"shopCode": "GOWJP",
+	"timestamp": "2018-03-15 14:26:19",
+	"token": "${…Í«Î¡Ó≈∆#Response#$.token}"
+}
